@@ -1,0 +1,6 @@
+C:\Users\utkin\RiderProjects\Klass\Klass\bin\Debug\Klass.exe
+C:\Users\utkin\RiderProjects\Klass\Klass\bin\Debug\Klass.pdb
+C:\Users\utkin\RiderProjects\Klass\Klass\obj\Debug\Klass.csproj.AssemblyReference.cache
+C:\Users\utkin\RiderProjects\Klass\Klass\obj\Debug\Klass.csproj.CoreCompileInputs.cache
+C:\Users\utkin\RiderProjects\Klass\Klass\obj\Debug\Klass.exe
+C:\Users\utkin\RiderProjects\Klass\Klass\obj\Debug\Klass.pdb
